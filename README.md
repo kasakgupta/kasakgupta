@@ -2,6 +2,8 @@
 
 # Kasak Gupta
 
+![](https://komarev.com/ghpvc/?username=kasakgupta&abbreviated=true)
+
 Hello! I'm Kasak Gupta, a passionate and detail-oriented computer engineering student specializing in web development. I have a solid foundation in HTML, CSS, and JavaScript, and I'm currently expanding my expertise by learning React.
 
 ## About Me
