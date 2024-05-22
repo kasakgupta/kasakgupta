@@ -1,3 +1,5 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
+
 # Kasak Gupta
 
 Hello! I'm Kasak Gupta, a passionate and detail-oriented computer engineering student specializing in web development. I have a solid foundation in HTML, CSS, and JavaScript, and I'm currently expanding my expertise by learning React.
