@@ -8,7 +8,7 @@ Hello! I'm Kasak Gupta, a passionate and detail-oriented computer engineering st
 - **Email:** [kasakgupta0507@gmail.com](mailto:kasakgupta0507@gmail.com)
 - **Education:** Computer Engineering Student
 
- ##Skills:
+ ## Skills:
  - HTML
  - CSS
  - JavaScript
