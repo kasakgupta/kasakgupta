@@ -48,9 +48,9 @@ I'm always open to discussing new projects, collaborations, or opportunities tha
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whoankitchauhan&count_private=true&show_icons=true&theme=dracula&line_height=40">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoankitchauhan&count_private=true&hide=html,scss,ejs&theme=dracula&line_height=10">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whoankitchauhan&theme=dracula" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kasakgupta&count_private=true&show_icons=true&theme=dracula&line_height=40">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasakgupta&count_private=true&hide=html,scss,ejs&theme=dracula&line_height=10">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasakgupta&theme=dracula" alt="Streak Stats" />
 </p>
 
 Thank you for visiting my GitHub profile! Let's create something amazing together.
