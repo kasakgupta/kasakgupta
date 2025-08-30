@@ -4,46 +4,48 @@
 
 ![](https://komarev.com/ghpvc/?username=kasakgupta&abbreviated=true)
 
-Hello! I'm Kasak Gupta, a passionate and detail-oriented computer engineering student specializing in web development. I have a solid foundation in HTML, CSS, and JavaScript, and I'm currently expanding my expertise by learning React.
+Hello! I'm **Kasak Gupta**, a passionate and detail-oriented Computer Engineering student specializing in **web development**.  
+I have a strong foundation in **HTML, CSS, JavaScript**, and I’m also strengthening my skills in **C++ and problem-solving through DSA**.
 
-## About Me
+---
 
-- **Name:** Kasak Gupta
-- **Email:** [kasakgupta0507@gmail.com](mailto:kasakgupta0507@gmail.com)
-- **Education:** Computer Engineering Student
+## 🚀 About Me
+- **Name:** Kasak Gupta  
+- **Email:** [kasakgupta0507@gmail.com](mailto:kasakgupta0507@gmail.com)  
+- **Education:** B.Tech in Information Technology (2027)  
 
- ## Skills:
- - HTML
- - CSS
- - JavaScript
- - React (currently learning)
+---
 
-## Professional Attributes
+## 🛠️ Skills
+- **Frontend:** HTML, CSS, JavaScript  
+- **Other:** Git, GitHub, C++, Java Basics  
+- **Soft Skills:** Time Management | Problem Solving | Detail-Oriented  
 
-- **Detail-Oriented:** I focus on the finer details to ensure the quality and functionality of my projects.
-- **Time Management:** I strive to complete my work on time, adhering to deadlines and delivering reliable results.
-- **Problem Solver:** I enjoy tackling challenges and finding efficient, innovative solutions.
+---
 
-## Projects
+## 💻 Projects
 
-### [Project 1: Awesome Website](link-to-project)
-A user-friendly website built with HTML, CSS, and JavaScript, featuring responsive design and interactive elements.
+### 🍰 [Responsive Cake Website](https://github.com/kasakgupta/cake-website)  
+A fully responsive website showcasing cake designs and details. Built with **HTML, CSS, and JavaScript**, ensuring seamless experience across devices.  
 
-### [Project 2: Task Manager App](link-to-project)
-A task management application developed using React, enabling users to organize their tasks efficiently with a sleek and intuitive interface.
+### ☁️ [Weather App](https://github.com/kasakgupta/weather-app)  
+A weather forecasting application powered by an **API**, displaying real-time weather data in a simple and user-friendly interface.  
 
-### [Project 3: Portfolio Website](link-to-project)
-A personal portfolio website showcasing my skills, projects, and experiences, designed with HTML, CSS, and JavaScript.
+### 🚗 [AIOUS Formula Student Chapter Website](https://www.aiousformulastudent.com/)  
+Currently working with my team on a modern, responsive **car-themed website** for the **AIOUS Formula Student Chapter**, highlighting achievements, team members, and projects.  
 
-## Goals
+---
 
-- **Master React:** Build complex, user-friendly web applications.
-- **Explore Modern Technologies:** Delve into other modern web technologies and frameworks.
-- **Contribute to Open Source:** Participate in open-source projects and collaborate with other developers to make meaningful contributions.
+## 🎯 Goals
+- **Master React & Modern Frameworks**: Build complex and scalable web apps  
+- **Strengthen DSA & Core CS**: Enhance problem-solving and prepare for placements  
+- **Contribute to Open Source**: Collaborate and give back to the dev community  
 
-## Get in Touch
+---
 
-I'm always open to discussing new projects, collaborations, or opportunities that align with my skills and interests. Feel free to reach out to me via email at [kasakgupta0507@gmail.com](mailto:kasakgupta0507@gmail.com).
+## 📬 Get in Touch
+I'm always open to discussing new projects, collaborations, or opportunities that align with my skills and interests.  
+📧 [kasakgupta0507@gmail.com](mailto:kasakgupta0507@gmail.com)  
 
 ---
 
@@ -53,4 +55,6 @@ I'm always open to discussing new projects, collaborations, or opportunities tha
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasakgupta&theme=dracula" alt="Streak Stats" />
 </p>
 
-Thank you for visiting my GitHub profile! Let's create something amazing together.
+---
+
+✨ Thank you for visiting my GitHub profile! Let’s build something amazing together. 🚀
