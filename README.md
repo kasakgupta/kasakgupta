@@ -25,14 +25,14 @@ I have a strong foundation in **HTML, CSS, JavaScript**, and I’m also strength
 
 ## 💻 Projects
 
-### 🍰 [Responsive Cake Website](https://github.com/kasakgupta/cake-website)  
+### 🚗 [AIOUS Formula Student Chapter Website](https://www.aiousformulastudent.com/)  
+Currently working with my team on a modern, responsive **car-themed website** for the **AIOUS Formula Student Chapter**, highlighting achievements, team members, and projects. 
+
+### 🍰 [Responsive Cake Website](https://kasakgupta.github.io/PRODIGY_WD_01/)  
 A fully responsive website showcasing cake designs and details. Built with **HTML, CSS, and JavaScript**, ensuring seamless experience across devices.  
 
-### ☁️ [Weather App](https://github.com/kasakgupta/weather-app)  
-A weather forecasting application powered by an **API**, displaying real-time weather data in a simple and user-friendly interface.  
-
-### 🚗 [AIOUS Formula Student Chapter Website](https://www.aiousformulastudent.com/)  
-Currently working with my team on a modern, responsive **car-themed website** for the **AIOUS Formula Student Chapter**, highlighting achievements, team members, and projects.  
+### ☁️ [Weather App](https://kasakgupta.github.io/PRODIGY_WD_05/)  
+A weather forecasting application powered by an **API**, displaying real-time weather data in a simple and user-friendly interface.   
 
 ---
 
